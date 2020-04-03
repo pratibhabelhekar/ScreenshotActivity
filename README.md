@@ -1,0 +1,2 @@
+# ScreenshotActivity
+InternalActivity
